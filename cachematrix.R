@@ -1,4 +1,4 @@
-## Zhe following two functions create cache of inverse of the matrix provided and returns value if same matrix is
+## The following two functions create cache of inverse of the matrix provided and returns value if same matrix is
 ## entered again else compute inverse of new matrix and saves in the cache created.
 
 ## makeCacheMatrix creates a special list of function which has elements set, get, setinverse, getinverse
